@@ -1,0 +1,270 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    height: 500vh;
+    background-color: #F5F5F5;
+}
+.navbar{
+    width: 80%;
+    height: 125px;
+    background: #4A2B33;
+    margin: auto;
+    margin-top: 15px;
+    display: flex;
+}
+.collection{
+    display: flex;
+    list-style: none;
+}
+.item{
+    font-size: 15px;
+    font-weight: 400;
+    color: #D27487;
+    margin-left: 20px;
+    margin-top: 55px;
+}
+.cafe{
+    margin-top: 44px;
+    color: #D27487;
+    margin-left: 200px;
+    word-spacing: 25px;
+}
+.navbar i{
+    width: 22px;
+    height: 23px;
+    color: #C67A88;
+    margin-top: 55px;
+    margin-left: 15px;
+}
+.message{
+    width: 23px;
+    height: 18px;
+    margin-top: 55px;
+    margin-left: 300px;
+}
+.facebook{
+    width: 23px;
+    height: 23px;
+    margin-top: 52px;
+    margin-left: 15px;
+}
+.banner{
+    width: 80%;
+    height: 500px;
+    background-color: #4A2B33;
+    margin: auto;
+}
+.banner_image{
+    width: 90%;
+    height: 480px;
+    margin-left: 55px;
+}
+.banner_text{
+    width: 80%;
+    height: 400px;
+    background: rgba(0, 0, 0, 0.027);
+    margin: auto;
+    padding-top: 80px;
+}
+.about{
+    font-size: 17px;
+    font-weight: 700;
+    text-align: center;
+}
+.tuck{
+    width: 700px;
+    font-size: 32px;
+    font-weight: 400;
+    text-align: center;
+    line-height: 44px;
+    margin: auto;
+}
+.banner3{
+    width: 80%;
+    height: 900px;
+    margin: auto;
+    background: rgba(0, 0, 0, 0.178);
+    padding-left: 60px;
+    padding-top: 120px;
+    display: flex;
+}
+.menu{
+    font-size: 18px;
+    font-weight: 700;
+    color: #6f6f64;
+}
+.we{
+    font-size: 32px;
+    font-weight: 400;
+    color: #6f6f64;
+    width: 520px;
+    line-height: 44px;
+    margin-top: 20px;
+}
+.btn{
+    width: 500px;
+    height: 58px;
+    margin-top: 74px;
+    background-color: #6f6f64;
+    color: #FFFFFF;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    border: none;
+}
+.btn2{
+    width: 500px;
+    height: 58px;
+    margin-top: 12px;
+    color: #6f6f64;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    display: block;
+    border: 2px solid #6f6f64;
+}
+.btn3{
+    width: 500px;
+    height: 58px;
+    margin-top: 12px;
+    color: #6f6f64;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    display: block;
+    border: 2px solid #6f6f64;
+}
+.img4{
+    height: 660px;
+    margin-left: 60px;
+}
+.banner4{
+    width: 80%;
+    height: 350px;
+    background-color: #AA9E54;
+    margin: auto;
+    display: flex;
+}
+.mini1{
+    width: 33%;
+    height: 100%;
+    padding-top: 50px;
+}
+.mini2{
+    width: 34%;
+    height: 100%;
+    padding-top: 50px;
+}
+.mini3{
+    width: 33%;
+    height: 100%;
+    padding-top: 50px;
+    padding-right: 20px;
+}
+.location{
+    font-size: 17px;
+    font-weight: 700;
+    text-align: center;
+    color: #FFFFFF;
+}
+.cuba{
+    font-size: 25px;
+    font-weight: 400;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 15px;
+}
+.cuba2{
+    font-size: 25px;
+    font-weight: 400;
+    text-align: center;
+    color: #FFFFFF;
+}
+.banner5{
+    width: 80%;
+    height: 550px;
+    background-color: rgba(0, 0, 0, 0.041);
+    margin: auto;
+    padding: 50px;
+    display: flex;
+}
+.img1{
+    width: 500px;
+    height: 200px;
+}
+.img2{
+    width: 500px;
+    height: 200px;
+    margin-top: 14px;
+}
+.img3{
+    width: 500px;
+    height: 92.7%;
+    margin-left: 20px;
+}
+.banner6{
+    width: 80%;
+    height: 350px;
+    background-color: #4A2B33;
+    margin: auto;
+    padding-left: 55px;
+    padding-top: 100px;
+    display: flex;
+}
+.text20{
+    font-size: 40px;
+    font-weight: 400;
+    color: #D27487;
+    line-height: 60px;
+    width: 300px;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+}
+.lorem{
+    font-size: 18px;
+    font-weight: 400;
+    color: #D27487;
+    width: 450px;
+    margin-left: 200px;
+    text-align: center;
+}
+.banner7{
+    width: 80%;
+    margin: auto;
+    height: 200px;
+    background-color: rgba(0, 0, 0, 0.041);
+    padding-top: 30px;
+}
+.collection100{
+    display: flex;
+    list-style: none;
+    margin-left: 250px;
+    margin-top: 30px;
+}
+.item30{
+    margin-left: 31px;
+    font-size: 15px;
+    font-weight: 400;
+}
+.item30:hover{
+    cursor: pointer;
+    transition: 0.5s;
+    color: blue;
+}
+.collection200{
+    display: flex;
+    list-style: none;
+    margin-left: 252px;
+    margin-top: 10px;
+}
+.latte{
+    font-size: 13px;
+    font-weight: 400;
+    color: #696969;
+    text-align: center;
+    margin-top: 65px;
+}
